@@ -21,6 +21,7 @@ itself.
 =head1 SEE ALSO
 
 L<Pod::Weaver::Section::Extends> 
+L<Pod::Weaver::Section::MooseConsumes> 
 L<Moose>
 
 =cut

@@ -1,5 +1,7 @@
-package Pod::Weaver::Section::MooseConsumes 0.01;
+package Pod::Weaver::Section::MooseConsumes;
 # ABSTRACT: Add Pod::Weaver section with consumed roles (what I am implementing) based on Moose OOP framework
+
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 

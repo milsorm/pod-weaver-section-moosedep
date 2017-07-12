@@ -1,5 +1,7 @@
-package Pod::Weaver::Section::MooseExtends 0.01;
+package Pod::Weaver::Section::MooseExtends;
 # ABSTRACT: Add Pod::Weaver section with inherited classes (what I am extending) based on Moose OOP framework
+
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
